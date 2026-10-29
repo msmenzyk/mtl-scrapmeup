@@ -12,7 +12,7 @@ By participating in this project, you agree to abide by our
 
 ### Reporting Bugs
 
-1. Check existing [issues](https://github.com/musictechlab/mtl-scrapmeup/issues)
+1. Check existing [issues](https://github.com/msmenzyk/mtl-scrapmeup/issues)
    to avoid duplicates
 2. Open a new issue using the **Bug Report** template
 3. Include steps to reproduce, expected vs. actual behavior, and environment details
@@ -66,5 +66,5 @@ See [README.md](README.md#development) for setup instructions.
 
 ## Questions?
 
-Open a [discussion](https://github.com/musictechlab/mtl-scrapmeup/discussions)
-or reach out at [musictechlab.io/contact](https://musictechlab.io/contact).
+Open a [discussion](https://github.com/msmenzyk/mtl-scrapmeup/discussions)
+or reach out at [mtl.dev/contact](https://mtl.dev/contact).
